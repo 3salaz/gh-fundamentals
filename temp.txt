@@ -1,8 +1,5 @@
 Erik Salazar
 Adaya Head
 Trevor Cardoza
-<<<<<<< HEAD
-Keith Tran
-=======
 Matthew Zhang
->>>>>>> 17739f98831a01b5805d8475170b0ddc78b9e2b6
+Keith Tran
